@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **francisco.ruiz-sanchez@t-systems.com**
 
-
+![FrancisTsys GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisTsys&show_icons=true&theme=radical)
 <p align="left">
 </p>
 
